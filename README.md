@@ -13,8 +13,13 @@ But
 
 Crédits
 --------------
-- HTML, CSS : Bootstrap Twittre
-- Polices/CSS : Steve Matteson via Google Web Fonts
-- Icônes réseaux sociaux : IconDock
-- Icônes statuts site Web : Yusuke Kamiyamane
-- Classe PHP "Ping" : Jeff Geerling (pas encore mis en place, à venir)
+- HTML, CSS : [Twitter's bootstrap](http://twitter.github.com/bootstrap/)
+- Polices/CSS : 'Open Sans' de [Steve Matteson](https://profiles.google.com/107777320916704234605/about) via [Google Web Fonts](http://www.google.com/webfonts)
+- Icônes réseaux sociaux : [IconDock](http://icondock.com/free/vector-social-media-icons)
+- Icônes statuts site Web : [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/)
+- Classe PHP "Ping" : [Jeff Geerling](https://github.com/geerlingguy/Ping) (pas encore mis en place, à venir)
+
+
+Aperçu
+--------------
+http://poinsot.ws
